@@ -1,19 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
-@font-face {
-  font-family: Kelson;
-  src: url('./assets/font/KelsonSans-Bold.woff') format('woff'),
-      url('./assets/font/KelsonSans-Bold.eot') format('embedded-opentype');
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: Kelson;
-  src: url('./assets/font/KelsonSans-Normal.woff') format('woff'),
-      url('./assets/font/KelsonSans-Normal.eot') format('embedded-opentype');
-  font-weight: normal;
-}
-
 body {
   font-family: 'Montserrat', Arial, sans-serif;
   background-color: #ffffff;
