@@ -16,7 +16,7 @@ Desde o início a ideia foi manter o projeto o mais simples possível, por esse 
 * CSS
 
 ## Utilizando a ferramenta 🔌
-* Se você **é um membro** do Overload, é só acessar **essa página** e inserir suas informações para criar a assinatura. As instruções para adicionar ao Gmail você encontra [aqui](https://github.com/Diego-Lopes-Ferreira/Email-sign-generator/wiki/Gerando-uma-assinatura) .
+* Se você **é um membro** do Overload, é só acessar [essa página](https://ximiraxelo.github.io/assinatura-email-overload/) e inserir suas informações para criar a assinatura. As instruções para adicionar ao Gmail você encontra [aqui](https://github.com/Diego-Lopes-Ferreira/Email-sign-generator/wiki/Gerando-uma-assinatura) .
 * Caso você **não** seja um membro, você pode encontrar instruções para criar sua própria versão [aqui](https://github.com/Diego-Lopes-Ferreira/Email-sign-generator/wiki/Criando-a-sua-pr%C3%B3pria-vers%C3%A3o).
 
  ## Contribuindo 🔎
